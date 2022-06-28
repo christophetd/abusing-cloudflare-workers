@@ -1,0 +1,29 @@
+{
+  "action": {
+    "info": "Created route '*somewhereinthe.cloud/*' with script my-malicious-worker",
+    "result": true,
+    "type": "route_create"
+  },
+  "actor": {
+    "email": "user@domain.tld",
+    "id": "43232371",
+    "ip": "178.39.178.39",
+    "type": "user"
+  },
+  "id": "39773e66-5f2a-48e1-8891-b009b3930500",
+  "interface": "",
+  "metadata": {
+    "pattern": "somewhereinthe.cloud/welcome",
+    "script_name": "my-malicious-worker"
+  },
+  "newValue": "",
+  "oldValue": "",
+  "owner": {
+    "id": "5f79d6751a81f7afe15900a6adfc063b"
+  },
+  "resource": {
+    "id": "e0b80dd5e5e04ad1b5c3a59bd287f679",
+    "type": "route"
+  },
+  "when": "2022-06-27T22:43:42.467248Z"
+}

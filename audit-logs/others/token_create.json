@@ -1,0 +1,28 @@
+{
+  "action": {
+    "result": true,
+    "type": "token_create"
+  },
+  "actor": {
+    "email": "user@domain.tld",
+    "id": "46915413f73c5f07ddbdab094dae5ebe",
+    "ip": "178.39.178.39",
+    "type": "user"
+  },
+  "id": "e69d7dd1-a62f-4a9b-b437-4c87d30751e4",
+  "interface": "",
+  "metadata": {
+    "token_name": "my-token",
+    "token_tag": "f5f867b308c80eab754bc220e265b6a4"
+  },
+  "newValue": "",
+  "oldValue": "",
+  "owner": {
+    "id": "46915413f73c5f07ddbdab094dae5ebe"
+  },
+  "resource": {
+    "id": "46915413f73c5f07ddbdab094dae5ebe",
+    "type": "account"
+  },
+  "when": "2022-06-27T22:23:32Z"
+}

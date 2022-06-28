@@ -1,0 +1,29 @@
+{
+  "action": {
+    "info": "Created script my-malicious-worker",
+    "result": true,
+    "type": "script_create"
+  },
+  "actor": {
+    "email": "user@domain.tld",
+    "id": "43232371",
+    "ip": "178.39.178.39",
+    "type": "user"
+  },
+  "id": "92ed67fc-0cac-42c8-a5ff-e498c5e5341f",
+  "interface": "",
+  "metadata": {
+    "script_tag": "ca56116bc64c4d57995e73725c8b3ea0",
+    "version_tag": "3b40a02f5d114c04a7cc19d6d685a6c5"
+  },
+  "newValue": "",
+  "oldValue": "",
+  "owner": {
+    "id": "5f79d6751a81f7afe15900a6adfc063b"
+  },
+  "resource": {
+    "id": "my-malicious-worker",
+    "type": "script"
+  },
+  "when": "2022-06-27T22:25:05.437873Z"
+}

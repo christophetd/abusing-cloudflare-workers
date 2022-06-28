@@ -1,0 +1,34 @@
+{
+  "action": {
+    "result": true,
+    "type": "rec_add"
+  },
+  "actor": {
+    "id": "1",
+    "type": "system"
+  },
+  "id": "7ea35431-f07f-469c-9083-3a1bd2e21b3d",
+  "interface": "API",
+  "metadata": {
+    "zone_name": "somewhereinthe.cloud"
+  },
+  "newValue": "",
+  "newValueJson": {
+    "content": "100::",
+    "id": "a8cac933cb71837d8c9d3042c9fe715b",
+    "name": "somewhereinthe.cloud",
+    "proxied": true,
+    "ttl": 1,
+    "type": "AAAA",
+    "zone_name": "somewhereinthe.cloud"
+  },
+  "oldValue": "",
+  "owner": {
+    "id": "5f79d6751a81f7afe15900a6adfc063b"
+  },
+  "resource": {
+    "id": "13636593034",
+    "type": "DNS_record"
+  },
+  "when": "2022-06-27T22:42:51.989032Z"
+}

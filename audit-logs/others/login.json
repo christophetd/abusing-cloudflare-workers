@@ -1,0 +1,25 @@
+{
+  "action": {
+    "result": true,
+    "type": "login"
+  },
+  "actor": {
+    "email": "user@domain.tld",
+    "id": "46915413f73c5f07ddbdab094dae5ebe",
+    "ip": "178.39.178.39",
+    "type": "user"
+  },
+  "id": "0af90cdc-fc1b-5388-801e-7b844860296a",
+  "interface": "",
+  "metadata": {},
+  "newValue": "",
+  "oldValue": "",
+  "owner": {
+    "id": "46915413f73c5f07ddbdab094dae5ebe"
+  },
+  "resource": {
+    "id": "46915413f73c5f07ddbdab094dae5ebe",
+    "type": "account"
+  },
+  "when": "2022-06-27T22:43:23Z"
+}

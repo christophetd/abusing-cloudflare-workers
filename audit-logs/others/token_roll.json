@@ -1,0 +1,30 @@
+{
+  "action": {
+    "result": true,
+    "type": "token_roll"
+  },
+  "actor": {
+    "email": "user@domain.tld",
+    "id": "46915413f73c5f07ddbdab094dae5ebe",
+    "ip": "178.39.178.39",
+    "type": "user"
+  },
+  "id": "53168826-4687-453d-a5a4-4283d6460938",
+  "interface": "",
+  "metadata": {
+    "new_token_hash": "8d735676fe0bde3d46ede61e93934d65888fb56026a7b845540e9922dfc0d2e8",
+    "old_token_hash": "8ffd9fc181f2858387422c4f93c4854c8486d4feba1b3088737b4cb137516175",
+    "token_name": "my-token",
+    "token_tag": "f5f867b308c80eab754bc220e265b6a4"
+  },
+  "newValue": "",
+  "oldValue": "",
+  "owner": {
+    "id": "46915413f73c5f07ddbdab094dae5ebe"
+  },
+  "resource": {
+    "id": "46915413f73c5f07ddbdab094dae5ebe",
+    "type": "account"
+  },
+  "when": "2022-06-28T22:28:48Z"
+}

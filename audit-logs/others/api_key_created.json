@@ -1,0 +1,25 @@
+{
+  "action": {
+    "result": true,
+    "type": "API_key_created"
+  },
+  "actor": {
+    "email": "user@domain.tld",
+    "id": "46915413f73c5f07ddbdab094dae5ebe",
+    "ip": "178.39.178.39",
+    "type": "user"
+  },
+  "id": "c694bd8f-0c9d-5097-be96-359fc24b4717",
+  "interface": "",
+  "metadata": {},
+  "newValue": "",
+  "oldValue": "",
+  "owner": {
+    "id": "5f79d6751a81f7afe15900a6adfc063b"
+  },
+  "resource": {
+    "id": "1aadb749c66cdd13c6445bee6e9c3ee0ff1ea1e152ca435f6d1f898683de5964",
+    "type": "api_key"
+  },
+  "when": "2022-06-27T22:28:11Z"
+}
